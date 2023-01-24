@@ -53,9 +53,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 
 ## Deployed App
-[screenshot] ![TechBlog screenshot](https://user-images.githubusercontent.com/110436164/214206792-5a8a21fc-cb52-46a1-9e49-f71a01aa166a.png)
+![screenshot] ![TechBlog screenshot](https://user-images.githubusercontent.com/110436164/214206792-5a8a21fc-cb52-46a1-9e49-f71a01aa166a.png)
 
 
-[Heroku link]
-https://mvc-tech-blog-1234.herokuapp.com/
+[Heroku link] https://mvc-tech-blog-1234.herokuapp.com/
 
