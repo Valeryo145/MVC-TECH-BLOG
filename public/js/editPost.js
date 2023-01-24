@@ -1,8 +1,8 @@
-// This should edit a post
+// Editing a post
 async function editFormHandler(event) {
     event.preventDefault();
 
-    // get the post id from the url
+    // get post id from the url
     const id = window.location.toString().split('/')[
         window.location.toString().split('/').length - 1
     ];
