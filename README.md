@@ -1,10 +1,9 @@
 # MVC-TECH-BLOG
 
 ## Description
-
+CMS-style blog site to publish articles, blog posts, and my thoughts. This app allows users to create a login by signing up and post their thoughts. Also, users can edit and delete their posts while logged in. 
 
 ## Acceptance Criteria
-
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
 THEN I am presented with the homepage, which includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in
@@ -39,9 +38,18 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
-
 ## Installation
 
 
 
 ## Mockup
+![TechBlog screenshot](https://user-images.githubusercontent.com/110436164/214207867-2379b03c-48f2-4b53-8bca-0dfd7515c584.png)
+
+
+## Deployed App
+[screenshot] ![TechBlog screenshot](https://user-images.githubusercontent.com/110436164/214206792-5a8a21fc-cb52-46a1-9e49-f71a01aa166a.png)
+
+
+[Heroku link]
+
+
