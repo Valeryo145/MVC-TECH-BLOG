@@ -6,9 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/seed.js",
-    "heroku-postbuild": "npm run seed"
+    "watch": "nodemon server.js"
   },
   "homepage": "https://github.com/Valeryo145/MVC-TECH-BLOG",
   "dependencies": {
